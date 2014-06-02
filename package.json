@@ -1,0 +1,14 @@
+{
+  "name": "hq9plus",
+  "version": "0.0.0",
+  "description": "HQ9+ REPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "HQ9+"
+  ],
+  "author": "Randall Koutnik <rkoutnik@gmail.com>",
+  "license": "MIT"
+}
