@@ -16,7 +16,7 @@ var beerMe = function() {
     console.log(i + ' bottles of beer');
     console.log('You take one down, pass it around,');
     console.log((i - 1) + ' bottles of beer on the wall!');
-    if (i-1) {
+    if (i - 1) {
       console.log('----------');
     }
   }
